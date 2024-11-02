@@ -3,6 +3,7 @@
 ![alt text](https://github.com/luuloi/AppliedBioinformatics2024/blob/7a78dbae9c957afb5172dc5496be410b78d8a8e7/Curriculum.png) \
 [**0. Introduction to the course "Applied Bioinformatics 2024" - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_0) \
 [**Please select a project before 07/12/2024**](https://docs.google.com/spreadsheets/d/13wdcJoBUs-Uw3pWMku0huHMdTa5NOBIU1miyxDYlVw0/edit?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10uSGZdtSFFzrHnY9UPPGjimbJz8gBNyN#scrollTo=LUF-H26AWt9w)
 
 [**1. Linux Operating System (OS), Linux command lines, basic bash script, and awk  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
    [1.1 Linux OS Ubuntu](https://www.youtube.com/watch?v=HHZExqr9RJ0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh) and [Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) \
