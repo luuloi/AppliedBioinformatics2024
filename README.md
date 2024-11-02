@@ -49,3 +49,8 @@
 
 [**10. Presenting group projects**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Project)\
 [List of group projects for Applied Bioinformatics](https://docs.google.com/spreadsheets/d/13wdcJoBUs-Uw3pWMku0huHMdTa5NOBIU1miyxDYlVw0/edit?usp=sharing)
+
+# **Materials**
+[**0. Bash and Awk books**](https://github.com/luuloi/AppliedBioinformatics2023/tree/43e5ce8a178e579497db221a33f1cd1daed26e73/Materials/book/bioinformatics_linux) \
+[**1. R books**](https://github.com/luuloi/AppliedBioinformatics2023/tree/43e5ce8a178e579497db221a33f1cd1daed26e73/Materials/book/R) \
+[**2. Online resources**](https://github.com/luuloi/AppliedBioinformatics2023/blob/43e5ce8a178e579497db221a33f1cd1daed26e73/Materials/README.md)
