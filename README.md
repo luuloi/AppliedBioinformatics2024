@@ -1,6 +1,6 @@
 # Applied Bioinformatics 2024
 "Applied bioinformatics" is a course for Genetics Master Program at Genetics Department, University of Science - VNUHCM \
-![alt text](https://github.com/luuloi/AppliedBioinformatics2024/blob/7a78dbae9c957afb5172dc5496be410b78d8a8e7/Curriculum.png) \
+
 [**0.1. Introduction to the course "Applied Bioinformatics 2024" - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_0) \
 
 [**Please select a project before 07/12/2024**](https://docs.google.com/spreadsheets/d/13wdcJoBUs-Uw3pWMku0huHMdTa5NOBIU1miyxDYlVw0/edit?usp=sharing)
@@ -10,11 +10,11 @@
    [0.2.1 Linux OS Ubuntu](https://www.youtube.com/watch?v=HHZExqr9RJ0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh) \
    [0.2.2 Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) 
 
-[**1.1. Introduction to Human Genome and Next Generation Sequencing  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/bedd46305f0bbc121c9dacc52b6ef18436d46f02/Lecture3) \
+[**1.1. Introduction to Human Genome and Next Generation Sequencing  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/bedd46305f0bbc121c9dacc52b6ef18436d46f02/Lecture3) 
 
 [**1.2. Introduction to basic bash script and awk  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
    [1.2.1. Basic bash script and awk](https://www.youtube.com/watch?v=6c3F9zR3Oz0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=4)\
-   [1.2.2. Practice on bash script](https://www.youtube.com/watch?v=cE4YwB9giaI&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5) \
+   [1.2.2. Practice on bash script](https://www.youtube.com/watch?v=cE4YwB9giaI&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5) 
 
 [**2.1. Basic Introduction to R, Data Visualization, and Statistics with R  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 2.1.1. Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s) \
