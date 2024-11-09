@@ -8,7 +8,7 @@
 
 [**0.2. Introduction to Linux Operating System (OS), Linux command lines, Google Colab and Github - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
    [0.2.1 Linux OS Ubuntu](https://www.youtube.com/watch?v=HHZExqr9RJ0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh) \
-   [0.2.2 Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) \
+   [0.2.2 Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) 
 
 [**1.1. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/bedd46305f0bbc121c9dacc52b6ef18436d46f02/Lecture3) \
 [1.1.1. Nucleotide DNA & RNA](https://www.youtube.com/watch?v=YVnt8EQ6q7Q&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8) \
