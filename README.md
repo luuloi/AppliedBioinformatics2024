@@ -1,14 +1,22 @@
 # Applied Bioinformatics 2024
 "Applied bioinformatics" is a course for Genetics Master Program at Genetics Department, University of Science - VNUHCM \
 ![alt text](https://github.com/luuloi/AppliedBioinformatics2024/blob/7a78dbae9c957afb5172dc5496be410b78d8a8e7/Curriculum.png) \
-[**0. Introduction to the course "Applied Bioinformatics 2024" - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_0) \
+[**0.1. Introduction to the course "Applied Bioinformatics 2024" - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_0) \
 
 [**Please select a project before 07/12/2024**](https://docs.google.com/spreadsheets/d/13wdcJoBUs-Uw3pWMku0huHMdTa5NOBIU1miyxDYlVw0/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10uSGZdtSFFzrHnY9UPPGjimbJz8gBNyN#scrollTo=LUF-H26AWt9w)
 
-[**1. Linux Operating System (OS), Linux command lines, basic bash script, and awk  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
-   [1.1 Linux OS Ubuntu](https://www.youtube.com/watch?v=HHZExqr9RJ0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh) and [Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) \
-   [1.2 Basic bash script and awk](https://www.youtube.com/watch?v=6c3F9zR3Oz0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=4) and [Practice on bash script](https://www.youtube.com/watch?v=cE4YwB9giaI&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5) 
+[**0.2. Introduction to Linux Operating System (OS), Linux command lines, Google Colab and Github - 02/11/2024**] (https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
+   [0.2.1 Linux OS Ubuntu](https://www.youtube.com/watch?v=HHZExqr9RJ0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh) \
+   [0.2.2 Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) \
+
+[**1.1. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/bedd46305f0bbc121c9dacc52b6ef18436d46f02/Lecture3) \
+[1.1.1. Nucleotide DNA & RNA](https://www.youtube.com/watch?v=YVnt8EQ6q7Q&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8) \
+[1.2.2. Human Genome Structure, Function, and Clinical Considerations](https://www.youtube.com/watch?v=j3A6jTiLlDo&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=2)
+
+[**1.2. Introduction to basic bash script and awk  - 09/11/2024**] \(https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
+   [1.2.1 Basic bash script and awk](https://www.youtube.com/watch?v=6c3F9zR3Oz0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=4)\
+   [1.2.2 Practice on bash script](https://www.youtube.com/watch?v=cE4YwB9giaI&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5) \
 
 [**2. Basic Introduction to R, Data Visualization, and Statistics with R  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 2.1 Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s) \
