@@ -21,9 +21,6 @@
 [3.1 Nucleotide DNA & RNA](https://www.youtube.com/watch?v=YVnt8EQ6q7Q&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8) \
 [3.2 Human Genome Structure, Function, and Clinical Considerations](https://www.youtube.com/watch?v=j3A6jTiLlDo&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=2)
 
-[**4. Basic GWAS with case vs control and quantitative traits - 30/11/2024**](https://github.com/luuloi/GWAS_Introduction_2023) \
-[4.1 Introduction to GWAS](https://www.youtube.com/watch?v=Tnsa_1wZroI&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=17)
-
 [**5. Next-Generation Sequencing and upstream analysis for DNA-seq -**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [5.1 Introduction to NGS platform](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
 [5.2 Raw Data Processing and Alignment/Mapping for DNA-seq](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
@@ -34,23 +31,6 @@
 [6.2b Variant Annotation and Variant Annotation databases for DNA-seq Part II](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
 [6.3 Cancer Gene Panel DNA testing](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10) \
 [Practice on DNA-seq Downstream Analysis](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git) 
-
-[**7. Introduction to bulk RNA-seq, library types, and experiment design -**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture7) \
-[7.1 Introduction to transcriptome, bulk RNA-seq and microarray](https://www.youtube.com/watch?v=nZFyciSbcMo&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=8) \
-[7.2 Comparison of Expression Array vs RNA-seq](https://www.youtube.com/watch?v=Ky9eD-Mi9kE&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=9) \
-[7.3 RNA-seq library types and Bulk RNA-seq experimental design](https://www.youtube.com/watch?v=2cOmuLPafds&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=10)
-
-[**8. PolyA bulk RNA-seq analysis -**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture8) \
-[8.1 Upstream analysis with mapping to reference genome and De novo assembly](https://www.youtube.com/watch?v=EDfjDcH-3Ug&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=11) \
-[8.2a Downstream analysis of bulk RNA-seq Part I](https://www.youtube.com/watch?v=N8AruRYfigA&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=12) \
-[8.2b Downstream analysis of bulk RNA-seq Part II](https://www.youtube.com/watch?v=kKDydWRACCU&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=13) \
-[8.3 Use cases of poly-A bulk RNA-seq for variant calling](https://www.youtube.com/watch?v=_c6kQah3q1c&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=17)
-
-[**9. Long non-coding bulk RNA-seq analysis -**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture9) \
-[9.1 Use cases of long non-coding RNA and allelic gene expression](https://www.youtube.com/watch?v=AjOFgi5eW3w&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=15)
-
-[**10. Presenting group projects**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Project)\
-[List of group projects for Applied Bioinformatics](https://docs.google.com/spreadsheets/d/13wdcJoBUs-Uw3pWMku0huHMdTa5NOBIU1miyxDYlVw0/edit?usp=sharing)
 
 # **Materials**
 [**0. Bash and Awk books**](https://github.com/luuloi/AppliedBioinformatics2023/tree/43e5ce8a178e579497db221a33f1cd1daed26e73/Materials/book/bioinformatics_linux) \
