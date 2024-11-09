@@ -42,3 +42,5 @@
 [**0. Bash and Awk books**](https://github.com/luuloi/AppliedBioinformatics2023/tree/43e5ce8a178e579497db221a33f1cd1daed26e73/Materials/book/bioinformatics_linux) \
 [**1. R books**](https://github.com/luuloi/AppliedBioinformatics2023/tree/43e5ce8a178e579497db221a33f1cd1daed26e73/Materials/book/R) \
 [**2. Online resources**](https://github.com/luuloi/AppliedBioinformatics2023/blob/43e5ce8a178e579497db221a33f1cd1daed26e73/Materials/README.md)
+
+Skype Group Chat: https://join.skype.com/ra9vlQlFbv3o
