@@ -1,5 +1,5 @@
 # Applied Bioinformatics 2024
-"Applied bioinformatics" is a course for Genetics Master Program at Genetics Department, University of Science - VNUHCM \
+"Applied bioinformatics" is a course for Genetics Master Program at Genetics Department, University of Science - VNUHCM
 
 [**0.1. Introduction to the course "Applied Bioinformatics 2024" - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_0) \
 
