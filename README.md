@@ -17,6 +17,7 @@
    [1.2.2. Practice on bash script](https://www.youtube.com/watch?v=cE4YwB9giaI&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5) 
    [Slide](./Lecture_1/Introduction_to_bash_scripting.pdf)
 - Basic Linux Bash Script Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O1Q_WeGwO1igbOuhtoEWDkSAY4zLQg4A?usp=sharing)
+- Bash Script Cheatsheet: https://github.com/RehanSaeed/Bash-Cheat-Sheet
 
 [**2.1. Basic Introduction to R, Data Visualization, and Statistics with R  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 2.1.1. Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s) \
