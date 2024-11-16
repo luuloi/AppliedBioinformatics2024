@@ -10,7 +10,7 @@
    [0.2.1 Linux OS Ubuntu](https://www.youtube.com/watch?v=HHZExqr9RJ0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh) \
    [0.2.2 Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) 
 
-[**1.1. Introduction to Human Genome and Next Generation Sequencing  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/bedd46305f0bbc121c9dacc52b6ef18436d46f02/Lecture3) 
+[**1.1. Introduction to Human Genome and Next Generation Sequencing  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_1) 
 
 [**1.2. Introduction to basic bash script and awk  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
    [1.2.1. Basic bash script and awk](https://www.youtube.com/watch?v=6c3F9zR3Oz0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=4)\
