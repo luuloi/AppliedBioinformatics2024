@@ -20,12 +20,16 @@
 - Exercise 2 - Bash Script in Bioinformatics: [Link](https://docs.google.com/presentation/d/1ei9ukTqA0wQEp4yiNVpB_sQpgeXA135KCPBbMJautTo/edit?usp=sharing)
 - Bash Script Cheatsheet: https://github.com/RehanSaeed/Bash-Cheat-Sheet
 
-[**L2.1. Human Genome and Gene Annotation  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)
+[**L2.1. Human Genome and Gene Annotation  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)\
 [**L2.1. AWK  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)
 
-[**L3.2. Basic Introduction to R, Data Visualization, and Statistics with R  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
+[**L3.1. OMIM and ClinVar  - 23/11/2024**]\
+[**L3.2. Basic Introduction to R, Data Visualization, and Statistics with R  - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 3.1.1. Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s) \
 3.1.2. Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)\
+
+[**L4.1. Basic statistics with R  - 23/11/2024**]
+[**L4.2. Basic statistics with R  - 23/11/2024**]
 3.1.3. Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=11) and [R6](https://www.youtube.com/watch?v=jnJ2GZDnM3A&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=10)\
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform)
