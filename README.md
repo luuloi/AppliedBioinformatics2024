@@ -22,6 +22,12 @@
 
 [**L2.1. Human Genome and Gene Annotation  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)\
 [**L2.2. AWK  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)
+- Practice awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16blHi2_QpxCnF970EXhItW07tHJMEj73?authuser=0&pli=1#scrollTo=WEeT-l0MjSTr)
+
+[**L3.1. OMIM and ClinVar  - 23/11/2024**]\
+[**L3.2. Basic Introduction to R, Data Visualization, and Statistics with R  - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
+3.1.1. Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s) \
+3.1.2. Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)\
 
 [**L3.1. OMIM and ClinVar  - 23/11/2024**]\
 [**L3.2. Basic Introduction to R, Data Visualization, and Statistics with R  - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
@@ -34,7 +40,7 @@
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform)
 
-- Practice awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16blHi2_QpxCnF970EXhItW07tHJMEj73?authuser=0&pli=1#scrollTo=WEeT-l0MjSTr)
+
 
 [**L5. Next-Generation Sequencing and upstream analysis for DNA-seq -**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [5.1 Introduction to NGS platform](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
