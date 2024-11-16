@@ -27,6 +27,8 @@
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform)
 
+- Practice awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16blHi2_QpxCnF970EXhItW07tHJMEj73?authuser=0&pli=1#scrollTo=WEeT-l0MjSTr)
+
 [**2.2. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2) \
 [2.2.1. Nucleotide DNA & RNA](https://www.youtube.com/watch?v=YVnt8EQ6q7Q&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8) \
 [2.2.2. Human Genome Structure, Function, and Clinical Considerations](https://www.youtube.com/watch?v=j3A6jTiLlDo&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=2)
