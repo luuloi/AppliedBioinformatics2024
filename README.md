@@ -1,18 +1,18 @@
 # Applied Bioinformatics 2024
 "Applied bioinformatics" is a course for Genetics Master Program at Genetics Department, University of Science - VNUHCM
 
-[**0.1. Introduction to the course "Applied Bioinformatics 2024" - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_0) 
+[**L0.1. Introduction to the course "Applied Bioinformatics 2024" - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_0) 
 
 [**Please select a project before 07/12/2024**](https://docs.google.com/spreadsheets/d/13wdcJoBUs-Uw3pWMku0huHMdTa5NOBIU1miyxDYlVw0/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10uSGZdtSFFzrHnY9UPPGjimbJz8gBNyN#scrollTo=LUF-H26AWt9w)
 
-[**0.2. Introduction to Linux Operating System (OS), Linux command lines, Google Colab and Github - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
+[**L0.2. Introduction to Linux Operating System (OS), Linux command lines, Google Colab and Github - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
    [0.2.1 Linux OS Ubuntu](https://www.youtube.com/watch?v=HHZExqr9RJ0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh) \
    [0.2.2 Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) 
 
-[**1.1. Introduction to Human Genome and Next Generation Sequencing  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_1) 
+[**L1.1. Introduction to Human Genome and Next Generation Sequencing  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_1) 
 
-[**1.2. Introduction to basic bash script and awk  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
+[**L1.2. Introduction to basic bash script and awk  - 09/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
    [1.2.1. Basic bash script and awk](https://www.youtube.com/watch?v=6c3F9zR3Oz0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=4)\
    [1.2.2. Practice on bash script](https://www.youtube.com/watch?v=cE4YwB9giaI&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5) 
    [Slide](./Lecture_1/Introduction_to_bash_scripting.pdf)
@@ -20,9 +20,10 @@
 - Exercise 2 - Bash Script in Bioinformatics: [Link](https://docs.google.com/presentation/d/1ei9ukTqA0wQEp4yiNVpB_sQpgeXA135KCPBbMJautTo/edit?usp=sharing)
 - Bash Script Cheatsheet: https://github.com/RehanSaeed/Bash-Cheat-Sheet
 
-[**2.2. Human Genome and Gene Annotation  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2) \
+[**L2.1. Human Genome and Gene Annotation  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)
+[**L2.1. AWK  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)
 
-[**3.1. Basic Introduction to R, Data Visualization, and Statistics with R  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
+[**L3.2. Basic Introduction to R, Data Visualization, and Statistics with R  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 3.1.1. Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s) \
 3.1.2. Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)\
 3.1.3. Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=11) and [R6](https://www.youtube.com/watch?v=jnJ2GZDnM3A&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=10)\
@@ -31,11 +32,11 @@
 
 - Practice awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16blHi2_QpxCnF970EXhItW07tHJMEj73?authuser=0&pli=1#scrollTo=WEeT-l0MjSTr)
 
-[**4. Next-Generation Sequencing and upstream analysis for DNA-seq -**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
+[**L4. Next-Generation Sequencing and upstream analysis for DNA-seq -**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [3.1 Introduction to NGS platform](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
 [3.2 Raw Data Processing and Alignment/Mapping for DNA-seq](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
 
-[**5. Downstream analysis for DNA-seq -**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture6) \
+[**L5. Downstream analysis for DNA-seq -**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture6) \
 [6.1 Variant Calling and Variant Filtering for DNA-seq](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) \
 [6.2a Variant Annotation and Variant Annotation databases for DNA-seq Part I](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8) \
 [6.2b Variant Annotation and Variant Annotation databases for DNA-seq Part II](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
