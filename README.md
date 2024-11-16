@@ -21,7 +21,7 @@
 - Bash Script Cheatsheet: https://github.com/RehanSaeed/Bash-Cheat-Sheet
 
 [**L2.1. Human Genome and Gene Annotation  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)\
-[**L2.1. AWK  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)\
+[**L2.2. AWK  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)
 
 [**L3.1. OMIM and ClinVar  - 23/11/2024**]\
 [**L3.2. Basic Introduction to R, Data Visualization, and Statistics with R  - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
