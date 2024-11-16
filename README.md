@@ -28,11 +28,11 @@
 [**L3.2. Basic Introduction to R - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s)
 
-[**L4.1. Genomic Variant Visualization - 30/11/2024**]
+[**L4.1. Genomic Variant Visualization - 30/11/2024**]\
 [**L4.2. Data Visualization with R - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)
 
-[**L5.1. IGV and GTF  - 23/11/2024**]
+[**L5.1. IGV and GTF  - 23/11/2024**]\
 [**L5.2. Basic statistics with R - 23/11/2024**]
 Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=11) and [R6](https://www.youtube.com/watch?v=jnJ2GZDnM3A&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=10)\
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
@@ -53,7 +53,7 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [8.1 Genetic Disease] \
 [8.2 NIPT]
 
-[**L9. Long read sequencing - 07/12/2024**] 
+[**L9. Long read sequencing - 07/12/2024**]\
 [9.1 Introduction to Pacbio sequencing platform] \
 [9.2 Raw Data Processing and Alignment/Mapping for long read] \
 [9.3 Variant calling for long read]
