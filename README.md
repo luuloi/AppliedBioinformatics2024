@@ -23,7 +23,7 @@
 [**L2.1. Human Genome and Gene Annotation  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)\
 [**L2.2. AWK  - 16/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_2)
 
-- [Slide](./Lecture_2/AWK.pdf)
+- Introduction to AWK: [Slide](./Lecture_2/AWK.pdf)
 
 - Practice awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16blHi2_QpxCnF970EXhItW07tHJMEj73?authuser=0&pli=1#scrollTo=WEeT-l0MjSTr)
 
