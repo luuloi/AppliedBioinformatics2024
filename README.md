@@ -59,10 +59,10 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 
 **L9. Long read sequencing - 04/01/2024**\
 [9.1 Introduction to Pacbio and Oxford Nanopore sequencing platform (PhD. Luu Phuc Loi)] \
-[9.2 Raw Data Processing and Alignment/Mapping for long read - Kim (ONT) Hùng (PacBio)] \
-[9.3 Variant calling for long read - Kim (ONT) Hùng (PacBio)]\
-[9.4 Denovo Assembly for long read - Huy (ONT) Hùng (PacBio)] \
-[9.5 Genome Annotation for Whole Genome- Huy (ONT) Hùng (PacBio)]
+[9.2 Raw Data Processing and Alignment/Mapping for long read - Kim (ONT) Hung (PacBio)] \
+[9.3 Variant calling for long read - Kim (ONT) Hung (PacBio)]\
+[9.4 Denovo Assembly for long read - Huy (ONT) Hung (PacBio)] \
+[9.5 Genome Annotation for Whole Genome- Huy (ONT) Hung (PacBio)]
 
 **L10. Review all lecture - 11/01/2024**
 
