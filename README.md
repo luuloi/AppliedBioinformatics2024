@@ -55,7 +55,7 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [**L8. Variant interpretation - 28/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [8.1 Genetic Disease] \
 [8.2 NIPT]\
-[8.3 Cancer]\
+[8.3 Cancer]
 
 **L9. Long read sequencing - 04/01/2024**\
 [9.1 Introduction to Pacbio and Oxford Nanopore sequencing platform] \
