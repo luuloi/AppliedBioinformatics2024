@@ -64,7 +64,8 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [9.4 Denovo Assembly for long read - Huy (ONT) Hùng (PacBio)] \
 [9.5 Genome Annotation for Whole Genome- Huy (ONT) Hùng (PacBio)]
 
-**L10. Group project Presentation - 11/01/2024**
+**L10. Review all lecture - 11/01/2024**
+**L11. Group project Presentation - 15/02/2024**
 
 
 # **Materials**
