@@ -64,7 +64,7 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [9.4 Denovo Assembly for long read] \
 [9.5 Genome Annotation for Whole Genome]
 
-**L10. Group project Presentation - 11/01/2024**\
+**L10. Group project Presentation - 11/01/2024**
 
 
 # **Materials**
