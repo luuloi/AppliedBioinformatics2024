@@ -3,7 +3,7 @@
 
 [**L0.1. Introduction to the course "Applied Bioinformatics 2024" - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_0) 
 
-[**Please select a project before 07/12/2024**](https://docs.google.com/spreadsheets/d/13wdcJoBUs-Uw3pWMku0huHMdTa5NOBIU1miyxDYlVw0/edit?usp=sharing)
+[**Please select a project before 07/12/2024**](https://docs.google.com/spreadsheets/d/1MHiN-w_7_oW_3a0fGodYMMDDndwRPq-i2bDen6qQrKw/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10uSGZdtSFFzrHnY9UPPGjimbJz8gBNyN#scrollTo=LUF-H26AWt9w)
 
 [**L0.2. Introduction to Linux Operating System (OS), Linux command lines, Google Colab and Github - 02/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
