@@ -27,42 +27,42 @@
 
 - Practice awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16blHi2_QpxCnF970EXhItW07tHJMEj73?authuser=0&pli=1#scrollTo=WEeT-l0MjSTr)
 
-**L3.1. OMIM and ClinVar - 23/11/2024**\
-[**L3.2. Basic Introduction to R - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
+**L3.1. OMIM and ClinVar (Thầy Lợi) - 23/11/2024**\
+[**L3.2. Basic Introduction to R (Duy) - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s)
 
-**L4.1. Genomic Variant Visualization with IGV and UCSC GENOME BROWSER - 30/11/2024**\
-[**L4.2. Data Visualization with R - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
+**L4.1. Genomic Variant Visualization with IGV and UCSC GENOME BROWSER (Thầy Lợi) - 30/11/2024**\
+[**L4.2. Data Visualization with R (Duy) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)
 
-**L5.1. INTRODUCTION TO CANCER GENOMICS - 07/12/2024**\
-**L5.2. Basic statistics with R - 07/12/2024**\
+**L5.1. INTRODUCTION TO CANCER GENOMICS (Thầy Lợi) - 07/12/2024**\
+**L5.2. Basic statistics with R (Duy) - 07/12/2024**\
 Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=11) and [R6](https://www.youtube.com/watch?v=jnJ2GZDnM3A&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=10)\
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform)
 
-[**L6. Next-Generation Sequencing and upstream analysis for DNA-seq - 14/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
-[6.1 Introduction to NGS platform](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
-[6.2 Raw Data Processing and Alignment/Mapping for DNA-seq](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
+[**L6. Next-Generation Sequencing and upstream analysis for DNA-seq (Thầy Lợi) - 14/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
+[6.1 Introduction to NGS platform (Thầy Lợi)](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
+[6.2 Raw Data Processing and Alignment/Mapping for DNA-seq (Duy)](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
 
-[**L7. Downstream analysis for DNA-seq - 21/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture6) \
-[7.1 Variant Calling and Variant Filtering for DNA-seq](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) \
-[7.2a Variant Annotation and Variant Annotation databases for DNA-seq Part I](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8) \
-[7.2b Variant Annotation and Variant Annotation databases for DNA-seq Part II](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
-[7.3 Cancer Gene Panel DNA testing](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10) \
-[Practice on DNA-seq Downstream Analysis](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git) 
+[**L7. Downstream analysis for DNA-seq (Minh) - 21/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture6) \
+[7.1 Variant Calling and Variant Filtering for DNA-seq (Minh)](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) \
+[7.2a Variant Annotation and Variant Annotation databases for DNA-seq Part I (Minh)](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8) \
+[7.2b Variant Annotation and Variant Annotation databases for DNA-seq Part II (Minh)](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
+[7.3 Cancer Gene Panel DNA testing (Minh)](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10) \
+[Practice on DNA-seq Downstream Analysis (Minh)](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git) 
 
 [**L8. Variant interpretation - 28/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
-[8.1 Genetic Disease] \
-[8.2 NIPT]\
-[8.3 Cancer]
+[8.1 Genetic Disease (BS Trang)] \
+[8.2 NIPT (BS Vy)]\
+[8.3 Cancer (Thầy Lợi)]
 
 **L9. Long read sequencing - 04/01/2024**\
-[9.1 Introduction to Pacbio and Oxford Nanopore sequencing platform] \
-[9.2 Raw Data Processing and Alignment/Mapping for long read] \
-[9.3 Variant calling for long read]\
-[9.4 Denovo Assembly for long read] \
-[9.5 Genome Annotation for Whole Genome]
+[9.1 Introduction to Pacbio and Oxford Nanopore sequencing platform (Thầy Lợi)] \
+[9.2 Raw Data Processing and Alignment/Mapping for long read - Kim (ONT) Hùng (PacBio)] \
+[9.3 Variant calling for long read - Kim (ONT) Hùng (PacBio)]\
+[9.4 Denovo Assembly for long read - Huy (ONT) Hùng (PacBio)] \
+[9.5 Genome Annotation for Whole Genome- Huy (ONT) Hùng (PacBio)]
 
 **L10. Group project Presentation - 11/01/2024**
 
