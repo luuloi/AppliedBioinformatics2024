@@ -26,7 +26,10 @@
 - Introduction to AWK: [Slide](./Lecture_2/AWK.pdf)
 
 - Practice awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16blHi2_QpxCnF970EXhItW07tHJMEj73?authuser=0&pli=1#scrollTo=WEeT-l0MjSTr)
+
 - Solution awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19G7NcwJTE19AREqKsyBY2dgV0tkHZ2Ow)
+
+- Practice
 
 [**L3.1. Introduction to GENETIC DISORDER, HPO, OMIM and ClinVar PartI (PhD. Luu Phuc Loi) - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_3)\
 [**L3.2. Basic Introduction to R (Duy) - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_3/R1_basic_R.pdf) \
