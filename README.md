@@ -34,7 +34,7 @@ Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXt
 
 [**L4.1. Genomic Variant Visualization with IGV and UCSC GENOME BROWSER (PhD. Luu Phuc Loi) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_4/Applied_Bioinformatics_2024Nov30.pdf) \
 [**L4.2. Data Visualization with R (Duy) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_4) \
-Video: Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)
+__Video__: Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)
 - Exercise Basic plot: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QExTOZkcvfi6qJ4D8g2fzYVsAtf-RfsI?usp=sharing)
 - Exercise ggplot2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lnafEdirEpkHI3QReTw0M5B9rkw1Ub57?usp=sharing)
 
