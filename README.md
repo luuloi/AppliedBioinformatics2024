@@ -29,11 +29,11 @@
 - Solution awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19G7NcwJTE19AREqKsyBY2dgV0tkHZ2Ow)
 
 [**L3.1. Introduction to GENETIC DISORDER, HPO, OMIM and ClinVar (PhD. Luu Phuc Loi) - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_3)\
-[**L3.2. Basic Introduction to R (Duy) - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
+[**L3.2. Basic Introduction to R (Duy) - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_3/R1_basic_R.pdf) \
 Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s)
 
 [**L4.1. Genomic Variant Visualization with IGV and UCSC GENOME BROWSER (PhD. Luu Phuc Loi) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_4/Applied_Bioinformatics_2024Nov30.pdf) \
-[**L4.2. Data Visualization with R (Duy) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
+[**L4.2. Data Visualization with R (Duy) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_4) \
 Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)
 
 **L5.1. INTRODUCTION TO CANCER GENOMICS (PhD. Luu Phuc Loi) - 07/12/2024**\
