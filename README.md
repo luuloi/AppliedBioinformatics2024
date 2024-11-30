@@ -28,17 +28,17 @@
 - Practice awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16blHi2_QpxCnF970EXhItW07tHJMEj73?authuser=0&pli=1#scrollTo=WEeT-l0MjSTr)
 - Solution awk: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19G7NcwJTE19AREqKsyBY2dgV0tkHZ2Ow)
 
-[**L3.1. Introduction to GENETIC DISORDER, HPO, OMIM and ClinVar (PhD. Luu Phuc Loi) - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_3)\
+[**L3.1. Introduction to GENETIC DISORDER, HPO, OMIM and ClinVar <PartI> (PhD. Luu Phuc Loi) - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_3)\
 [**L3.2. Basic Introduction to R (Duy) - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_3/R1_basic_R.pdf) \
 Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s)
 
-[**L4.1. Genomic Variant Visualization with IGV and UCSC GENOME BROWSER (PhD. Luu Phuc Loi) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_4/Applied_Bioinformatics_2024Nov30.pdf) \
+[**L4.1. Introduction to GENETIC DISORDER, HPO, OMIM and ClinVar <PartII> (PhD. Luu Phuc Loi) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_4/Applied_Bioinformatics_2024Nov30.pdf)\
 [**L4.2. Data Visualization with R (Duy) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_4) \
 __Video__: Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)
 - Exercise Basic plot: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QExTOZkcvfi6qJ4D8g2fzYVsAtf-RfsI?usp=sharing)
 - Exercise ggplot2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lnafEdirEpkHI3QReTw0M5B9rkw1Ub57?usp=sharing)
 
-**L5.1. INTRODUCTION TO CANCER GENOMICS (PhD. Luu Phuc Loi) - 07/12/2024**\
+[**L5.1. Genomic Variant Visualization with IGV and UCSC GENOME BROWSER (PhD. Luu Phuc Loi) - 07/12/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_5/Applied_Bioinformatics_2024Dec07.pdf) \
 **L5.2. Basic statistics with R (Duy) - 07/12/2024**\
 Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=11) and [R6](https://www.youtube.com/watch?v=jnJ2GZDnM3A&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=10)\
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
@@ -52,15 +52,17 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [7.1 Variant Calling and Variant Filtering for DNA-seq (Dr.Minh)](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) \
 [7.2a Variant Annotation and Variant Annotation databases for DNA-seq Part I (Dr.Minh)](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8) \
 [7.2b Variant Annotation and Variant Annotation databases for DNA-seq Part II (Dr.Minh)](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
-[7.3 Cancer Gene Panel DNA testing (Dr.Minh)](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10) \
 [Practice on DNA-seq Downstream Analysis (Dr.Minh)](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git) 
 
-[**L8. Variant interpretation - 28/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
-[8.1 Genetic Disease (Dr.Trang)] \
-[8.2 NIPT (Dr.Vy)] \
-[8.3 Cancer (PhD. Luu Phuc Loi)]
+**L8.1. INTRODUCTION TO CANCER GENOMICS (PhD. Luu Phuc Loi) - 28/12/2024**\
+[**L8.2 Cancer Gene Panel DNA testing (Dr.Minh)**](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10) \
 
-**L9. Long read sequencing - 04/01/2024**\
+[**L9. Variant interpretation - 04/01/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
+[9.1 Genetic Disease (Dr.Trang)] \
+[9.2 NIPT (Dr.Vy)] \
+[9.3 Cancer (PhD. Luu Phuc Loi)]
+
+**L9. Long read sequencing - 11/01/2024**\
 [9.1 Introduction to Pacbio and Oxford Nanopore sequencing platform (PhD. Luu Phuc Loi)] \
 [9.2 Raw Data Processing and Alignment/Mapping for long read - Kim (ONT) Hung (PacBio)] \
 [9.3 Variant calling for long read - Kim (ONT) Hung (PacBio)]\
