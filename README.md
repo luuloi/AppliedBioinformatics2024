@@ -32,7 +32,7 @@
 [**L3.2. Basic Introduction to R (Duy) - 23/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s)
 
-**L4.1. Genomic Variant Visualization with IGV and UCSC GENOME BROWSER (PhD. Luu Phuc Loi) - 30/11/2024**\
+**L4.1. Genomic Variant Visualization with IGV and UCSC GENOME BROWSER (PhD. Luu Phuc Loi) - 30/11/2024**(https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_4/Applied_Bioinformatics_2024Nov30.pdf)
 [**L4.2. Data Visualization with R (Duy) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)
 
