@@ -55,7 +55,7 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [Practice on DNA-seq Downstream Analysis (Dr.Minh)](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git) 
 
 **L8.1. INTRODUCTION TO CANCER GENOMICS (PhD. Luu Phuc Loi) - 28/12/2024**\
-[**L8.2 Cancer Gene Panel DNA testing (Dr.Minh)**](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10) \
+[**L8.2 Cancer Gene Panel DNA testing (Dr.Minh)**](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10)
 
 [**L9. Variant interpretation - 04/01/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [9.1 Genetic Disease (Dr.Trang)] \
