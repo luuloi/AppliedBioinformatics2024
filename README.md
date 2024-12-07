@@ -42,7 +42,7 @@ __Video__: Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG
 - Exercise ggplot2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lnafEdirEpkHI3QReTw0M5B9rkw1Ub57?usp=sharing)
 
 [**L5.1. Genomic Variant Visualization with IGV (PhD. Luu Phuc Loi) - 07/12/2024**](https://colab.research.google.com/drive/19ECphsycOvmuJDUBk-fg8eKy-pAkfmvO?usp=sharing) \
-**L5.2. Basic statistics with R (Duy) - 07/12/2024**\
+[**L5.2. Basic statistics with R (Duy) - 07/12/2024**](./Lecture_5/) \
 Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=11) and [R6](https://www.youtube.com/watch?v=jnJ2GZDnM3A&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=10)\
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform)
