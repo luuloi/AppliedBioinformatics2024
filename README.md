@@ -36,13 +36,13 @@
 Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s)
 
 [**L4.1. Introduction to GENETIC DISORDER, HPO, OMIM and ClinVar PartII (PhD. Luu Phuc Loi) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_4/Applied_Bioinformatics_2024Nov30.pdf)\
-[**L4.2. Data Visualization with R (Duy) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_4) \
+[**L4.2. Data Visualization with R (Duy, Minh) - 30/11/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_4) \
 __Video__: Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)
 - Exercise Basic plot: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QExTOZkcvfi6qJ4D8g2fzYVsAtf-RfsI?usp=sharing)
 - Exercise ggplot2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lnafEdirEpkHI3QReTw0M5B9rkw1Ub57?usp=sharing)
 
 [**L5.1. Genomic Variant Visualization with IGV (PhD. Luu Phuc Loi) - 07/12/2024**](https://colab.research.google.com/drive/19ECphsycOvmuJDUBk-fg8eKy-pAkfmvO?usp=sharing) \
-[**L5.2. Basic statistics with R (Duy) - 07/12/2024**](./Lecture_5/) \
+[**L5.2. Basic statistics with R (Duy, Giau) - 07/12/2024**](./Lecture_5/) \
 Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=11) and [R6](https://www.youtube.com/watch?v=jnJ2GZDnM3A&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=10)\
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform)
