@@ -48,7 +48,7 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform)
 
 [**L6. Next-Generation Sequencing and upstream analysis for DNA-seq - 14/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
-[6.1 Introduction to gnomAD database (PhD. Luu Phuc Loi)](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
+[6.1 Introduction to gnomAD database (PhD. Luu Phuc Loi)](https://github.com/luuloi/AppliedBioinformatics2024/blob/7034525775d27ae93e2fa01a6c3f2d665fecf1b4/Lecture_6/use_of_the_genome_aggregation_database_gnomad_anne_odonnell_luria.pdf) \
 [6.2 Introduction to NGS platform (PhD. Luu Phuc Loi)](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
 [6.3 Raw Data Processing and Alignment/Mapping for DNA-seq (Duy)](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
 
