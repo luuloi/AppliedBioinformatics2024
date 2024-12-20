@@ -52,7 +52,7 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [6.2 Introduction to NGS platform (PhD. Luu Phuc Loi) - 21/12/2024](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
 [6.3 Gene Panel BRCA1 and BRCA2 Library Prep (Phu) - 21/12/2024](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
 [6.4 Raw Data Processing and Alignment/Mapping for DNA-seq (Duy) - 21/12/2024](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AXTNUKx4A4SEMDlMhX1X1CKKJRvhgMUK?usp=sharing)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AXTNUKx4A4SEMDlMhX1X1CKKJRvhgMUK?usp=sharing)
 
 [**L7. Downstream analysis for DNA-seq (Dr.Minh) - 28/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture6) \
 [7.1 Variant Calling and Variant Filtering for DNA-seq (Dr.Minh)](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) \
