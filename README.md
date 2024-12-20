@@ -49,26 +49,26 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 
 [**L6. Next-Generation Sequencing and upstream analysis for DNA-seq - 14/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [6.1 Introduction to gnomAD database - 14/12/2024 (PhD. Luu Phuc Loi)](https://github.com/luuloi/AppliedBioinformatics2024/blob/7034525775d27ae93e2fa01a6c3f2d665fecf1b4/Lecture_6/use_of_the_genome_aggregation_database_gnomad_anne_odonnell_luria.pdf) \
-[6.2 Introduction to NGS platform (PhD. Luu Phuc Loi) - 20/12/2024](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
-[6.3 Gene Panel BRCA1 and BRCA2 Library Prep (Phu) - 20/12/2024](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
-[6.4 Raw Data Processing and Alignment/Mapping for DNA-seq (Duy) - 20/12/2024](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
+[6.2 Introduction to NGS platform (PhD. Luu Phuc Loi) - 21/12/2024](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
+[6.3 Gene Panel BRCA1 and BRCA2 Library Prep (Phu) - 21/12/2024](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
+[6.4 Raw Data Processing and Alignment/Mapping for DNA-seq (Duy) - 21/12/2024](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AXTNUKx4A4SEMDlMhX1X1CKKJRvhgMUK?usp=sharing)
 
-[**L7. Downstream analysis for DNA-seq (Dr.Minh) - 21/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture6) \
+[**L7. Downstream analysis for DNA-seq (Dr.Minh) - 28/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture6) \
 [7.1 Variant Calling and Variant Filtering for DNA-seq (Dr.Minh)](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) \
 [7.2a Variant Annotation and Variant Annotation databases for DNA-seq Part I (Dr.Minh)](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8) \
 [7.2b Variant Annotation and Variant Annotation databases for DNA-seq Part II (Dr.Minh)](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
 [Practice on DNA-seq Downstream Analysis (Dr.Minh)](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git) 
 
-**L8.1. INTRODUCTION TO CANCER GENOMICS (PhD. Luu Phuc Loi) - 28/12/2024**\
+[**L8.1. INTRODUCTION TO CANCER GENOMICS (PhD. Luu Phuc Loi) - 04/01/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture7)\
 [**L8.2 Cancer Gene Panel DNA testing (Dr.Minh)**](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10)
 
-[**L9. Variant interpretation - 04/01/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
+[**L9. Variant interpretation - 11/01/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [9.1 Genetic Disease (Dr.Trang)] \
 [9.2 NIPT (Dr.Vy)] \
 [9.3 Cancer (PhD. Luu Phuc Loi)]
 
-**L9. Long read sequencing - 11/01/2024**\
+**L9. Long read sequencing - 18/01/2024**\
 [9.1 Introduction to Pacbio and Oxford Nanopore sequencing platform (PhD. Luu Phuc Loi)] \
 [9.2 Raw Data Processing and Alignment/Mapping for long read - Kim (ONT) Hung (PacBio)] \
 [9.3 Variant calling for long read - Kim (ONT) Hung (PacBio)]\
