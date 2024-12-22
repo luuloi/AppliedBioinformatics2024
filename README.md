@@ -50,7 +50,7 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [**L6. Next-Generation Sequencing and upstream analysis for DNA-seq - 14/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [6.1 Introduction to gnomAD database - 14/12/2024 (PhD. Luu Phuc Loi)](https://github.com/luuloi/AppliedBioinformatics2024/blob/7034525775d27ae93e2fa01a6c3f2d665fecf1b4/Lecture_6/use_of_the_genome_aggregation_database_gnomad_anne_odonnell_luria.pdf) \
 [6.2 Introduction to NGS platforms (PhD. Luu Phuc Loi) - 21/12/2024](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
-[6.3 Gene Panel BRCA1 and BRCA2 Library Prep (Phu) - 21/12/2024](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
+[6.3 Gene Panel BRCA1 and BRCA2 Library Prep (Phu) - 21/12/2024](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_6/DNA%20Library_Phu.pdf) \
 [6.4 Raw Data Processing and Alignment/Mapping for DNA-seq (Duy) - 21/12/2024](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_6/dnaseq_upstream_scripts.md)
 - [PDF](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_6/DNAseq_BRCA1_2_UpstreamAnalysis.pdf)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AXTNUKx4A4SEMDlMhX1X1CKKJRvhgMUK?usp=sharing)
