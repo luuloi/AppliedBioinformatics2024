@@ -59,7 +59,8 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [7.1 Variant Calling and Variant Filtering for DNA-seq (Dr.Minh)](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) \
 [7.2a Variant Annotation and Variant Annotation databases for DNA-seq Part I (Dr.Minh)](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8) \
 [7.2b Variant Annotation and Variant Annotation databases for DNA-seq Part II (Dr.Minh)](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
-[Practice on DNA-seq Downstream Analysis (Dr.Minh)](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git) 
+[Practice on DNA-seq Downstream Analysis (Dr.Minh)](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git):
+   - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yRez3tDDEAvdgHkAVgqCqWZiTn4s8Tsb?usp=sharing)
 
 [**L8.1. INTRODUCTION TO CANCER GENOMICS (PhD. Luu Phuc Loi) - 04/01/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture7)\
 [**L8.2 Cancer Gene Panel DNA testing (Dr.Minh)**](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10)
