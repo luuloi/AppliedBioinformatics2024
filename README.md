@@ -47,7 +47,7 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform)
 
-[**L6. Next-Generation Sequencing and upstream analysis for DNA-seq - 14/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
+[**L6. Next-Generation Sequencing and upstream analysis for DNA-seq - 14/12/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_6) \
 [6.1 Introduction to gnomAD database - 14/12/2024 (PhD. Luu Phuc Loi)](https://github.com/luuloi/AppliedBioinformatics2024/blob/7034525775d27ae93e2fa01a6c3f2d665fecf1b4/Lecture_6/use_of_the_genome_aggregation_database_gnomad_anne_odonnell_luria.pdf) \
 [6.2 Introduction to NGS platforms (PhD. Luu Phuc Loi) - 21/12/2024](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_6/Applied_Bioinformatics_2024Dec28.pdf) \
 [6.3 Gene Panel BRCA1 and BRCA2 Library Prep (Phu) - 21/12/2024](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_6/DNA%20Library_Phu.pdf) \
@@ -55,14 +55,14 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 - [PDF](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_6/DNAseq_BRCA1_2_UpstreamAnalysis.pdf)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AXTNUKx4A4SEMDlMhX1X1CKKJRvhgMUK?usp=sharing)
 
-[**L7. Downstream analysis for DNA-seq (Dr.Minh) - 28/12/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture_7) \
+[**L7. Downstream analysis for DNA-seq (Dr.Minh) - 28/12/2024**](https://github.com/luuloi/AppliedBioinformatics2024/tree/main/Lecture_7) \
 [7.1 Variant Calling and Variant Filtering for DNA-seq (Dr.Minh)](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) \
 [7.2a Variant Annotation and Variant Annotation databases for DNA-seq Part I (Dr.Minh)](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8) \
 [7.2b Variant Annotation and Variant Annotation databases for DNA-seq Part II (Dr.Minh)](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
 [Practice on DNA-seq Downstream Analysis (Dr.Minh)](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git):
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yRez3tDDEAvdgHkAVgqCqWZiTn4s8Tsb?usp=sharing)
 
-[**L8.1. INTRODUCTION TO CANCER GENOMICS (PhD. Luu Phuc Loi) - 04/01/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture_8)\
+[**L8.1. INTRODUCTION TO CANCER GENOMICS (PhD. Luu Phuc Loi) - 04/01/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_8/Applied_Bioinformatics_2025Jan03.pdf)\
 [**L8.2 Cancer Gene Panel DNA testing (Dr.Minh)**](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10)
 
 [**L9. Variant interpretation - 11/01/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
