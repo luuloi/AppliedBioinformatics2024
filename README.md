@@ -70,24 +70,14 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
 
 - [Slide](./Lecture_8/Cancer_Gene_Panel_DNA_testing.pdf)
 
-[**L9. Variant interpretation - 11/01/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
-[9.1 Genetic Disease (Dr.Trang)] \
-[9.2 NIPT (Dr.Vy)] \
-[9.3 Cancer (PhD. Luu Phuc Loi)]
+[**L9. Inherited Cancer Genetic Counselling, cBioPortal, COSMIC and Somatic ClinVar - 11/01/2024**](./Lecture_9/Applied_Bioinformatics_2025Jan11.pdf)
 
-- [Slide](./Lecture_9/Applied_Bioinformatics_2025Jan11.pdf)
+**L10. Long read sequencing - 18/01/2024**\
+[10.1 Genetic Disease (Dr.Trang)] \
+[10.2 NIPT (Dr.Vy)] \
+[10.3 Structural and Copy Number Variation Anlaysis](./Lecture_10/Structural_and_copy-number_variation_analysis-Tobias_Rausch.pdf)
 
-- [Structural_and_copy_number_variation_anlaysis](./Lecture_9/Structural_and_copy-number_variation_analysis-Tobias_Rausch.pdf)
-
-**L9. Long read sequencing - 18/01/2024**\
-[9.1 Introduction to Pacbio and Oxford Nanopore sequencing platform (PhD. Luu Phuc Loi)] \
-[9.2 Raw Data Processing and Alignment/Mapping for long read - Kim (ONT) Hung (PacBio)] \
-[9.3 Variant calling for long read - Kim (ONT) Hung (PacBio)]\
-[9.4 Denovo Assembly for long read - Huy (ONT) Hung (PacBio)] \
-[9.5 Genome Annotation for Whole Genome- Huy (ONT) Hung (PacBio)]
-
-**L10. Group project Presentation - 15/02/2024**
-
+**L11. Group project Presentation - 15/02/2024**
 
 # **Materials**
 [**0. Bash and Awk books**](https://github.com/luuloi/AppliedBioinformatics2023/tree/43e5ce8a178e579497db221a33f1cd1daed26e73/Materials/book/bioinformatics_linux) \
