@@ -63,12 +63,21 @@ Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list
    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yRez3tDDEAvdgHkAVgqCqWZiTn4s8Tsb?usp=sharing)
 
 [**L8.1. INTRODUCTION TO CANCER GENOMICS (PhD. Luu Phuc Loi) - 04/01/2024**](https://github.com/luuloi/AppliedBioinformatics2024/blob/main/Lecture_8/Applied_Bioinformatics_2025Jan03.pdf)\
+
+- [Slide](./Lecture_8/Applied_Bioinformatics_2025Jan03.pdf)
+
 [**L8.2 Cancer Gene Panel DNA testing (Dr.Minh)**](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10)
+
+- [Slide](./Lecture_8/Cancer_Gene_Panel_DNA_testing.pdf)
 
 [**L9. Variant interpretation - 11/01/2024**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [9.1 Genetic Disease (Dr.Trang)] \
 [9.2 NIPT (Dr.Vy)] \
 [9.3 Cancer (PhD. Luu Phuc Loi)]
+
+- [Slide](./Lecture_9/Applied_Bioinformatics_2025Jan11.pdf)
+
+- [Structural_and_copy_number_variation_anlaysis](./Lecture_9/Structural_and_copy-number_variation_analysis-Tobias_Rausch.pdf)
 
 **L9. Long read sequencing - 18/01/2024**\
 [9.1 Introduction to Pacbio and Oxford Nanopore sequencing platform (PhD. Luu Phuc Loi)] \
